@@ -3,7 +3,7 @@
 This bot is an AI assistant that automatically responds to mentions and tweet replies on Twitter.
 ## Contact
 
-fiv3fingers.dev@gmail.com
+[Telegram](https://t.me/fiv3dev)
 
 ## Features
 
@@ -65,7 +65,3 @@ You can choose between two modes:
 - API keys are securely stored in `.env` file
 - API usage is controlled with rate limiting
 - Excessive usage is prevented with daily tweet limit
-
-## License
-
-MIT 
